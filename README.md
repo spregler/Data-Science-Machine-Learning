@@ -3,9 +3,9 @@
   
    Tools:
    
-   - __Python__: Numpy, Pandas, Seaborn, Matplotlib
+   * __Python__: Numpy, Pandas, Seaborn, Matplotlib
    
-   - __Machine Learning__: Scikit_ Learn, Tensorflow 
+   * __Machine Learning__: Scikit_ Learn, Tensorflow 
    
    
 * ## Machine Learning:
