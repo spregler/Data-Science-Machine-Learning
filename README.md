@@ -13,4 +13,4 @@
    * [Credit Card Fraud Detection](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Credit%20Card%20Fraud)
    
  ## Data Analysis and Visualization(Python):
-   * [Housing Price Predictor]
+   * [Housing Price Predictor](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/housing_prediction)
