@@ -5,6 +5,7 @@ A repository containing my data science projects and machine learning research.
 ### tools used: 
 * Scikit-Learn
 * Tensorflow
+* Keras
 
 # Projects
 * [Housing Price Predictor](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/housing_prediction)
