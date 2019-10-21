@@ -1,6 +1,6 @@
-# Data Science Repository
+# My Data Science Repository
 
-A repository containing my data science projects and machine learning research.
+A repository containing my data science projects and research.
 
 ### tools used: 
 * Scikit-Learn
