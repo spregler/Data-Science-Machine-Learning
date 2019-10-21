@@ -11,7 +11,7 @@ A repository containing my data science projects and machine learning research.
 * [Housing Price Predictor](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/housing_prediction)
 * [Credit Card Fraud Detection](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Credit%20Card%20Fraud)
 * [MNIST Classification](https://github.com/spregler/Data-Science-Machine-Learning/blob/master/MNIST%20Classification/MNIST.ipynb)
-* [Conoco Phillips Datathon Competition]()
+* [Conoco Phillips Datathon Competition](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
 
 Rendor error?
 If the above notebooks don't render, try using nbviewer with the links below
