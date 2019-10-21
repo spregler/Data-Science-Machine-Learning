@@ -1,4 +1,4 @@
-# Data-Science-Machine-Learning
+# Data Science Repository
 
 A repository containing my data science projects and machine learning research.
 
