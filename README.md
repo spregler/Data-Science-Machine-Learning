@@ -23,5 +23,3 @@ A repository containing my data science projects and research.
 * Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
 * [Fundamentals of Deeo Learning with Computer Vision](https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V2/about)
 * [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-* [Coursera Machine Learning](https://www.coursera.org/learn/machine-learning)
-* [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
