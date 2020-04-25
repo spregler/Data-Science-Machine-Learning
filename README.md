@@ -2,7 +2,7 @@
 
 # My Data Science Repository
 
-A repository containing my data science projects and research.
+A repository containing my data science and machine projects and research.
 
 ### tools used: 
 * Scikit-Learn
