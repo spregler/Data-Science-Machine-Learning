@@ -11,8 +11,8 @@ A repository containing my data science projects and research.
 * Caffe
 
 # Projects
-* [Plagiarism Detection using Machine Learning] (https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
-* [Sentiment Analysis using Deep Learning] (https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
+* [Plagiarism Detection using Machine Learning](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Plagiarism-Detection)
+* [Sentiment Analysis using Deep Learning](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Sentiment-Analysis)
 * [Conoco Phillips Predicting Equipment Failure](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
 * [NVIDIA Fundamentals of Computer Vision Final Assesment](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/NVIDIA%20Deep%20Learning%20Institute%20Image%20Classifier)
 * [Housing Price Predictor](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/California%20Housing%20Price%20Prediction)
