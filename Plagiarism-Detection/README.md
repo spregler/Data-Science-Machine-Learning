@@ -1,5 +1,5 @@
 <h1> Plagiarism Detection </h1>
-<h5> Plagiarism Detection with Deep Learning (Python)
+<h5> Plagiarism Detection with Machine Learning (Python)
 Apr 2020
 
 Project description
