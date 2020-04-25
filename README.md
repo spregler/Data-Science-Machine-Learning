@@ -7,15 +7,17 @@ A repository containing my data science projects and research.
 ### tools used: 
 * Scikit-Learn
 * Tensorflow
-* Keras
+* PyTorch
 * Caffe
 
 # Projects
+* [Plagiarism Detection using Machine Learning] (https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
+* [Sentiment Analysis using Deep Learning] (https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
+* [Conoco Phillips Predicting Equipment Failure](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
+* [NVIDIA Fundamentals of Computer Vision Final Assesment](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/NVIDIA%20Deep%20Learning%20Institute%20Image%20Classifier)
 * [Housing Price Predictor](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/California%20Housing%20Price%20Prediction)
 * [Credit Card Fraud Detection](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Credit%20Card%20Fraud)
 * [MNIST Classification](https://github.com/spregler/Data-Science-Machine-Learning/blob/master/MNIST%20Classification/MNIST.ipynb)
-* [Conoco Phillips Predicting Equipment Failure](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
-* [NVIDIA Fundamentals of Computer Vision Final Assesment](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/NVIDIA%20Deep%20Learning%20Institute%20Image%20Classifier)
 
 ## Learning Resources
 * Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
