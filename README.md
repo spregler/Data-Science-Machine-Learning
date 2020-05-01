@@ -1,14 +1,15 @@
 
 
-# My Data Science Repository
+# My ML Repository
 
 A repository containing my data science and machine projects and research.
 
-### tools used: 
-* Scikit-Learn
-* Tensorflow
-* PyTorch
+#### tools used: 
+* Tensorflow & Keras 
+* PyTorch & fastai 
 * Caffe
+* Intel's OpenVINO
+* SageMaker
 
 # Projects
 * [Plagiarism Detection using Machine Learning](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Plagiarism-Detection)
@@ -23,6 +24,9 @@ A repository containing my data science and machine projects and research.
 * [Fundamentals of Deeo Learning with Computer Vision](https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V2/about)
 * [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 * [Udacity Edge AI for IoT Developers](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
+* [fastai Practical Deep Learning for Coders, V3](https://course.fast.ai/)
+* [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
+* [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
 
 ## My Books
 * Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
