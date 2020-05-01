@@ -4,4 +4,5 @@ Apr 2020
 
 Project description
 * Compute similarity between two text files using containment and longest common sub-sequencing
-* Developed and trained an LSTM for binary classification</h5>
+* Developed and trained an LSTM for binary classification
+* UPDATE: You will see that I did not go with the LSTM but rather a simple SVC</h5>
