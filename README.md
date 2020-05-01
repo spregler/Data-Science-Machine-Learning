@@ -2,7 +2,7 @@
 
 # My ML Repository
 
-A repository containing my data science and machine projects and research.
+A comprehensive one stop shop for my machine learning projects and research.
 
 #### tools used: 
 * Tensorflow & Keras 
@@ -20,14 +20,14 @@ A repository containing my data science and machine projects and research.
 * [Credit Card Fraud Detection](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Credit%20Card%20Fraud)
 * [MNIST Classification](https://github.com/spregler/Data-Science-Machine-Learning/blob/master/MNIST%20Classification/MNIST.ipynb)
 
-## My Courses
+## My Course Repos
 * [Fundamentals of Deeo Learning with Computer Vision](https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V2/about)
-* [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
-* [Udacity Edge AI for IoT Developers](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
-* [fastai Practical Deep Learning for Coders, V3](https://course.fast.ai/)
-* [MIT Intro to Deep Learning](http://introtodeeplearning.com/)
-* [Stanford Deep Learning Tutorial](http://ufldl.stanford.edu/tutorial/)
+* [Udacity Machine Learning Engineer Nanodegree](https://github.com/spregler/Udacity-Machine-Learning-Engineer)
+* [Udacity Edge AI for IoT Developers](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree)
+* [fastai Practical Deep Learning for Coders, V3](https://github.com/spregler/fastai-course)
+* [MIT Intro to Deep Learning](https://github.com/spregler/MIT-Intro-to-Deep-Learning)
+* [Stanford Deep Learning Tutorial](https://github.com/spregler/Stanford-ML-Course)
 
-## My Books
+## Cool Books
 * Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
 * Deep Learning -Ian Goodfellow
