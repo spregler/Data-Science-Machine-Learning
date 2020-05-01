@@ -19,7 +19,11 @@ A repository containing my data science and machine projects and research.
 * [Credit Card Fraud Detection](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Credit%20Card%20Fraud)
 * [MNIST Classification](https://github.com/spregler/Data-Science-Machine-Learning/blob/master/MNIST%20Classification/MNIST.ipynb)
 
-## Learning Resources
-* Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
+## My Courses
 * [Fundamentals of Deeo Learning with Computer Vision](https://courses.nvidia.com/courses/course-v1:DLI+C-FX-01+V2/about)
 * [Udacity Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+* [Udacity Edge AI for IoT Developers](https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131)
+
+## My Books
+* Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
+* Deep Learning -Ian Goodfellow
