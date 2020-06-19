@@ -2,8 +2,6 @@
 
 # My ML Repository
 
-A comprehensive one stop shop for my machine learning projects and research.
-
 #### tools used: 
 * Tensorflow & Keras 
 * PyTorch & fastai 
