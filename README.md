@@ -1,6 +1,6 @@
 
 
-# My ML Repository
+# Projects and Courses
 
 #### tools used: 
 * Tensorflow & Keras 
@@ -10,6 +10,8 @@
 * SageMaker
 
 # Projects
+
+* [Plant Pathology Challenge](https://github.com/spregler/Plant-Pathology-Capstone)
 * [Plagiarism Detection using Machine Learning](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Plagiarism-Detection)
 * [Sentiment Analysis using Deep Learning](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Sentiment-Analysis)
 * [Conoco Phillips Predicting Equipment Failure](https://github.com/spregler/Data-Science-Machine-Learning/tree/master/Conoco%20Phillips%20Comp2019)
@@ -24,8 +26,4 @@
 * [Udacity Edge AI for IoT Developers](https://github.com/spregler/Edge-AI-for-IoT-Developers-Nanodegree)
 * [fastai Practical Deep Learning for Coders, V3](https://github.com/spregler/fastai-course)
 * [MIT Intro to Deep Learning](https://github.com/spregler/MIT-Intro-to-Deep-Learning)
-* [Stanford Deep Learning Tutorial](https://github.com/spregler/Stanford-ML-Course)
 
-## Cool Books
-* Hands-On Machine Learning with Scikit-Learn & TensorFlow -Aurelien Geron
-* Deep Learning -Ian Goodfellow
