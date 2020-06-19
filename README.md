@@ -5,8 +5,7 @@
 #### tools used: 
 * Tensorflow & Keras 
 * PyTorch & fastai 
-* Caffe
-* Intel's OpenVINO
+* Intel OpenVINO
 * SageMaker
 
 # Projects
